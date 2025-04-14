@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # JSON-XML-Converter
-=======
+
 
 # JSON to XML and XML to JSON Converter
 
@@ -57,4 +56,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Project Owner: [Kenan Öztürk](mailto:kenan.ozturk@hotmail.com.com)
 - GitHub: [https://github.com/kenanozt1](https://github.com/kenanozt1)
->>>>>>> f2bbf29 (initial commit)
