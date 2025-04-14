@@ -46,6 +46,8 @@ This project provides an application that allows users to convert data between J
 
 3. **Copy Functionality**:
    - To copy the converted data to the clipboard, use the "Copy" button.
+   - 
+![image](https://github.com/user-attachments/assets/53116e73-8357-4f9e-8862-b95947bb33df)
 
 
 ## License
